@@ -20,6 +20,7 @@ git clone https://github.com/shejomathew/LogFlowAnalysis.git
 Navigate into the project directory src folder:
 
 Copy code
+
 javac -cp ".:dependency/commons-csv-1.12.0.jar:dependency/commons-io-2.17.0.jar:dependency/commons-codec-1.17.1.jar" LogDataAnalysis.java 
 java -cp ".:dependency/commons-csv-1.12.0.jar:dependency/commons-io-2.17.0.jar:dependency/commons-codec-1.17.1.jar" LogDataAnalysis 
 
