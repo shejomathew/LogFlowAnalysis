@@ -25,6 +25,7 @@ javac -cp ".:dependency/commons-csv-1.12.0.jar:dependency/commons-io-2.17.0.jar:
 
 java -cp ".:dependency/commons-csv-1.12.0.jar:dependency/commons-io-2.17.0.jar:dependency/commons-codec-1.17.1.jar" LogDataAnalysis 
 
+Output will be stored in resources/outputCounts.csv
 
 Contact
 Shejo Mathew - shejomathew24@gmail.com
